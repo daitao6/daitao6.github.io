@@ -1,11 +1,4 @@
 
->  # **NOTE:** This repository is NOT a template.
+## About Me
+I am currently a master's student in the Department of Computer Science and Technology at East China University of Science and Technology. I received my B.E. in Computer Science and Technology from Nanjing University of Finance and Economics in 2026.
 
-
-## Want to build your own?
-Please use the open-source template available here: **[senli1073/academic-homepage-template](https://github.com/senli1073/academic-homepage-template)**. It includes documentation and is ready for you to customize.
-
-
-## License
-
-Copyright Sen Li, 2023-2026. Licensed under an MIT license.
