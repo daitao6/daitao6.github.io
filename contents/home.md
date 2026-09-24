@@ -10,7 +10,7 @@ Email: 18652662062@163.com
 
 #### Education
 B.E. in Computer Science and Technology,
-Nanjing University of Finance and Economics, 2020–2026
+Nanjing University of Finance and Economics, 2020–2026  
 M.E. in Computer Science and Technology,
 East China University of Science and Technology, 2026–2029
 
